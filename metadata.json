@@ -1,0 +1,5 @@
+{
+  "name": "BTC Alpha Tracker",
+  "description": "Professional Bitcoin price tracking dashboard with automated Buy/Sell alerts based on 50 and 200 Weekly Moving Averages (WMA).",
+  "requestFramePermissions": []
+}
